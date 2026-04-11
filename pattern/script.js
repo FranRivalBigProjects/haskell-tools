@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Patterns: '+(code.value.match(/->/g)||[]).length;}

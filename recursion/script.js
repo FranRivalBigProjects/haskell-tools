@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Calls: '+(code.value.match(/\b\w+\s*\(/g)||[]).length;}

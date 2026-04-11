@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Fold ops: '+(code.value.match(/fold/g)||[]).length;}

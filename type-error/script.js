@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText=err.value.includes('type')?'Type issue detected':'Check error';}

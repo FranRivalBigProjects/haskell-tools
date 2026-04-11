@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Bind operations: '+(code.value.match(/>>=/g)||[]).length;}

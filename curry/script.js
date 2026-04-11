@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Curried args: '+args.value.split(',').length;}

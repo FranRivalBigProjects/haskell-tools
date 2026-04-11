@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Build steps: '+log.value.split('\n').length;}

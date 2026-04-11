@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Map ops: '+(code.value.match(/fmap/g)||[]).length;}
